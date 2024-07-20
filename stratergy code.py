@@ -2,8 +2,8 @@ from AlgorithmImports import *
 
 class TopCryptoStrategy(QCAlgorithm):
     def Initialize(self):
-        self.SetStartDate(2024, 3, 1)  # Set Start Date
-        self.SetEndDate(2024, 6, 1)
+        self.SetStartDate(2019, 1, 1)  # Set Start Date
+        self.SetEndDate(2024, 1, 1)
         self.SetCash(100000)  # Set Strategy Cash
 
         # Define the symbols
