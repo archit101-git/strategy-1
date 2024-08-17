@@ -2,7 +2,7 @@
 
 Cryptocurrencies: BTCUSD, ETHUSD
 Stocks: AAPL, META, NVDA, TSM, INTU, BX, TSLA, PWR, NUE, ZM, NIO, BRKR, AXON, ODFL, PINS, EFX, BLDR, ENPH
-Technical Indicators
+
 # The following indicators are used for each active symbol:
 
 Supertrend1: (Period: 10, Multiplier: 2.5, Moving Average: Wilders)
